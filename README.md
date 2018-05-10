@@ -1,12 +1,13 @@
 ## Welcome to Minified Work
 
-#### Minimizing workloads, one task at a time
+### Minimizing workloads, one task at a time
 
->Minified.Work Privacy Policy
+---
+> #### Minified.Work Privacy Policy
 >
 >This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://minified.work/ (the “Site”).
 >
->PERSONAL INFORMATION WE COLLECT
+> ##### PERSONAL INFORMATION WE COLLECT
 >
 >When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 >
@@ -19,7 +20,7 @@
 >
 >When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 >
->HOW DO WE USE YOUR PERSONAL INFORMATION?
+> ##### HOW DO WE USE YOUR PERSONAL INFORMATION?
 >
 >We use the Information to:
 >Communicate with you; and
@@ -27,29 +28,29 @@
 >
 >We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 >
->SHARING YOUR PERSONAL INFORMATION
+> ##### SHARING YOUR PERSONAL INFORMATION
 >
 >We share your Personal Information with third parties to help us use your Personal Information, as described above.  We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
 >
 >Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 >
->DO NOT TRACK
+> ##### DO NOT TRACK
 >Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 >
->CHANGES
+> ##### CHANGES
 >We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 >
->CONTACT US
+> ##### CONTACT US
 >For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at ian0583@gmail.com or by mail using the details provided below:
 >
 >  Blk 7 Lot 31 Barium St., Sta. Elena Village, Antipolo City, 40, 1870, Philippines
 
 ___
 
-> ##### TERMS OF SERVICE
+> #### TERMS OF SERVICE
 >
 >
->OVERVIEW
+> ##### OVERVIEW
 >
 >This website is operated by Minified.Work. Throughout the site, the terms “we”, “us” and “our” refer to Minified.Work. Minified.Work offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 >
@@ -62,7 +63,7 @@ ___
 >Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 >
 >
->SECTION 1 - ONLINE TERMS
+> ##### SECTION 1 - ONLINE TERMS
 >
 >By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 >
@@ -73,7 +74,7 @@ ___
 >A breach or violation of any of the Terms will result in an immediate termination of your Services.
 >
 >
->SECTION 2 - GENERAL CONDITIONS
+> ##### SECTION 2 - GENERAL CONDITIONS
 >
 >We reserve the right to refuse service to anyone for any reason at any time.
 >
@@ -84,14 +85,14 @@ ___
 >The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms.
 >
 >
->SECTION 3 - ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION
+> ##### SECTION 3 - ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION
 >
 >We are not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk.
 >
 >This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.
 >
 >
->SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES
+> ##### SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES
 >
 >Prices for our products are subject to change without notice.
 >
@@ -100,7 +101,7 @@ ___
 >We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
 >
 >
->SECTION 5 - PRODUCTS OR SERVICES (if applicable)
+> ##### SECTION 5 - PRODUCTS OR SERVICES (if applicable)
 >
 >Certain products or services may be available exclusively online through the website. These products or services may have limited quantities and are subject to return or exchange only according to our Return Policy.
 >
@@ -111,7 +112,7 @@ ___
 >We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
 >
 >
->SECTION 6 - ACCURACY OF BILLING AND ACCOUNT INFORMATION
+> ##### SECTION 6 - ACCURACY OF BILLING AND ACCOUNT INFORMATION
 >
 >We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.
 >
@@ -120,7 +121,7 @@ ___
 >For more detail, please review our Returns Policy.
 >
 >
->SECTION 7 - OPTIONAL TOOLS
+> ##### SECTION 7 - OPTIONAL TOOLS
 >
 >We may provide you with access to third-party tools over which we neither monitor nor have any control nor input.
 >
@@ -131,7 +132,7 @@ ___
 >We may also, in the future, offer new services and/or features through the website (including, the release of new tools and resources). Such new features and/or services shall also be subject to these Terms of Service.
 >
 >
->SECTION 8 - THIRD-PARTY LINKS
+> ##### SECTION 8 - THIRD-PARTY LINKS
 >
 >Certain content, products and services available via our Service may include materials from third-parties.
 >
@@ -140,7 +141,7 @@ ___
 >We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
 >
 >
->SECTION 9 - USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS
+> ##### SECTION 9 - USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS
 >
 >If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us. We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.
 >
@@ -149,12 +150,12 @@ ___
 >You agree that your comments will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e-mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third-party.
 >
 >
->SECTION 10 - PERSONAL INFORMATION
+> ##### SECTION 10 - PERSONAL INFORMATION
 >
 >Your submission of personal information through the store is governed by our Privacy Policy. To view our Privacy Policy.
 >
 >
->SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS
+> ##### SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS
 >
 >Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).
 >
@@ -162,12 +163,12 @@ ___
 >
 >
 >
->SECTION 12 - PROHIBITED USES
+> ##### SECTION 12 - PROHIBITED USES
 >
 >In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
 >
 >
->SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
+> ##### SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
 >
 >We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.
 >
@@ -181,17 +182,17 @@ ___
 >
 >
 >
->SECTION 14 - INDEMNIFICATION
+> ##### SECTION 14 - INDEMNIFICATION
 >
 >You agree to indemnify, defend and hold harmless Minified.Work and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
 >
 >
->SECTION 15 - SEVERABILITY
+> ##### SECTION 15 - SEVERABILITY
 >
 >In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.
 >
 >
->SECTION 16 - TERMINATION
+> ##### SECTION 16 - TERMINATION
 >
 >The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.
 >
@@ -200,7 +201,7 @@ ___
 >If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny you access to our Services (or any part thereof).
 >
 >
->SECTION 17 - ENTIRE AGREEMENT
+> ##### SECTION 17 - ENTIRE AGREEMENT
 >
 >The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.
 >
@@ -209,7 +210,7 @@ ___
 >Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.
 >
 >
->SECTION 18 - GOVERNING LAW
+> ##### SECTION 18 - GOVERNING LAW
 >
 >These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of Blk 7 Lot 31 Barium St., Sta. Elena Village, Antipolo City, 40, 1870, Philippines.
 >
