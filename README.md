@@ -29,7 +29,7 @@
 >
 >SHARING YOUR PERSONAL INFORMATION
 >
->We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here:  https://www.shopify.com/legal/privacy.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
+>We share your Personal Information with third parties to help us use your Personal Information, as described above.  We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
 >
 >Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 >
@@ -44,7 +44,7 @@
 >
 >  Blk 7 Lot 31 Barium St., Sta. Elena Village, Antipolo City, 40, 1870, Philippines
 
-----
+====
 
 >TERMS OF SERVICE
 >
