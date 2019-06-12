@@ -1,8 +1,8 @@
-Minified.Work Privacy Policy
+### Minified.Work Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://minified.work/ (the “Site”).
 
-PERSONAL INFORMATION WE COLLECT
+### PERSONAL INFORMATION WE COLLECT
 
 When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
@@ -15,7 +15,7 @@ We collect Device Information using the following technologies:
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-HOW DO WE USE YOUR PERSONAL INFORMATION?
+#### HOW DO WE USE YOUR PERSONAL INFORMATION?
 
 We use the Information to:
 Communicate with you; and
@@ -23,19 +23,19 @@ When in line with the preferences you have shared with us, provide you with info
 
 We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-SHARING YOUR PERSONAL INFORMATION
+### SHARING YOUR PERSONAL INFORMATION
 
 We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here:  https://www.shopify.com/legal/privacy.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-DO NOT TRACK
+### DO NOT TRACK
 Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-CHANGES
+### CHANGES
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-CONTACT US
+### CONTACT US
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at ian0583@gmail.com or by mail using the details provided below:
 
   Blk 7 Lot 31 Barium St., Sta. Elena Village, Antipolo City, 40, 1870, Philippines
